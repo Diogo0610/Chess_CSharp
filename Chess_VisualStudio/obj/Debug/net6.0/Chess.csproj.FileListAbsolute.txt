@@ -13,3 +13,18 @@ C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Se
 C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 12 - Chess\obj\Debug\net6.0\Chess.pdb
 C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 12 - Chess\obj\Debug\net6.0\Chess.genruntimeconfig.cache
 C:\Users\dbb20\OneDrive\Documentos\Estudo\Cursos\C# - Nélio Alves - Prática\Seção 12 - Chess\obj\Debug\net6.0\ref\Chess.dll
+C:\Projetos\Chess\Chess_VisualStudio\bin\Debug\net6.0\Chess.exe
+C:\Projetos\Chess\Chess_VisualStudio\bin\Debug\net6.0\Chess.deps.json
+C:\Projetos\Chess\Chess_VisualStudio\bin\Debug\net6.0\Chess.runtimeconfig.json
+C:\Projetos\Chess\Chess_VisualStudio\bin\Debug\net6.0\Chess.dll
+C:\Projetos\Chess\Chess_VisualStudio\bin\Debug\net6.0\Chess.pdb
+C:\Projetos\Chess\Chess_VisualStudio\obj\Debug\net6.0\Chess.csproj.AssemblyReference.cache
+C:\Projetos\Chess\Chess_VisualStudio\obj\Debug\net6.0\Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Chess\Chess_VisualStudio\obj\Debug\net6.0\Chess.AssemblyInfoInputs.cache
+C:\Projetos\Chess\Chess_VisualStudio\obj\Debug\net6.0\Chess.AssemblyInfo.cs
+C:\Projetos\Chess\Chess_VisualStudio\obj\Debug\net6.0\Chess.csproj.CoreCompileInputs.cache
+C:\Projetos\Chess\Chess_VisualStudio\obj\Debug\net6.0\Chess.dll
+C:\Projetos\Chess\Chess_VisualStudio\obj\Debug\net6.0\refint\Chess.dll
+C:\Projetos\Chess\Chess_VisualStudio\obj\Debug\net6.0\Chess.pdb
+C:\Projetos\Chess\Chess_VisualStudio\obj\Debug\net6.0\Chess.genruntimeconfig.cache
+C:\Projetos\Chess\Chess_VisualStudio\obj\Debug\net6.0\ref\Chess.dll

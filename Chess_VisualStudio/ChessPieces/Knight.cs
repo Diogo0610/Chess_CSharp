@@ -2,6 +2,7 @@
 
 namespace ChessPieces
 {
+    //Usada a letra 'H' para não confundir com o 'K' de King/Rei
     internal class Knight : Piece
     {
         public Knight(Board board, Color color) : base(board, color)
@@ -67,7 +68,7 @@ namespace ChessPieces
 
         public override string ToString()
         {
-            return "K";
+            return "H";
         }
     }
 }

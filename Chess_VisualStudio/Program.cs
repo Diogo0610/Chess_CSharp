@@ -61,7 +61,7 @@ namespace Chess
 
                 }
                 Console.Clear();
-                Screen.CreateBoard(match.board);
+                Screen.PrintBoard(match);
             }
             catch (BoardException e)
             {
