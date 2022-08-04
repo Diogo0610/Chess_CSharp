@@ -1,0 +1,5 @@
+C:\Users\dbb20\OneDrive\Documentos\Chess.exe
+C:\Users\dbb20\OneDrive\Documentos\Chess.dll
+C:\Users\dbb20\OneDrive\Documentos\Chess.deps.json
+C:\Users\dbb20\OneDrive\Documentos\Chess.runtimeconfig.json
+C:\Users\dbb20\OneDrive\Documentos\Chess.pdb

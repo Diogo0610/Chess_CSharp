@@ -1,0 +1,5 @@
+C:\Projetos\Chess\Chess_Game_Project\Chess.exe
+C:\Projetos\Chess\Chess_Game_Project\Chess.dll
+C:\Projetos\Chess\Chess_Game_Project\Chess.deps.json
+C:\Projetos\Chess\Chess_Game_Project\Chess.runtimeconfig.json
+C:\Projetos\Chess\Chess_Game_Project\Chess.pdb
